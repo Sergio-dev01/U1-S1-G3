@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Frank Ruhl Libre", serif;
+}
+header {
+  text-align: center;
+}
+
+header img {
+  width: 300px;
+}
+header p {
+  background-color: #fdfbf1;
+  padding: 20px;
+  border-top: solid #ffd877;
+  color: #004d4c;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.preview h1 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  color: #333333;
+}
+
+.preview img {
+  border-radius: 10px;
+  width: 100%;
+}
+.preview p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #333333;
+}
+
+.featured h4 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  padding-left: 10px;
+  color: #b5460f;
+}
+.featured p {
+  margin-top: 0px;
+  margin-bottom: 50px;
+  padding-left: 10px;
+}
+
+.featured a {
+  color: #107777;
+}
+
+.featured {
+  border-left: solid #ffd877;
+}
+
+hr {
+  height: 3px;
+  background-color: #c3f3f2;
+  border: none;
+}
+
+.ingredients h4 {
+  font-weight: bold;
+}
